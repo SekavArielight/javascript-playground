@@ -8,5 +8,5 @@
 
 let x = 8;
 
-x = "Hi"
-console.log(x)
+x = "Hi";
+console.log(x);
